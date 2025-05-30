@@ -1,0 +1,7 @@
+flask
+requests
+selenium
+beautifulsoup4
+lxml
+pandas
+python-dotenv
